@@ -30,3 +30,5 @@ npm run build
 
 You only need to deploy your html files and css/style.css
 # clipboard
+
+![screencapture-file-D-PROIECTE-GITHUB-2022-Tailwind-Css-clipboard-index-html-2022-09-22-18_48_10](https://user-images.githubusercontent.com/100482638/191793397-2e7d10f7-0063-438c-93be-04bb9cce903e.png)
